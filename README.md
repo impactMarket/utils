@@ -102,9 +102,9 @@ cd example-web
 yarn dev
 ```
 
-Now, anytime you make a change to your library in `src/` or to the example app's `example-web/src`, the wxample app will live-reload your local dev server so you can iterate on your component in real-time.
+Now, anytime you make a change to your library in `src/` or to the example app's `example-web/src`, the example app will live-reload your local dev server so you can iterate on your component in real-time.
 
 ## create-react-library
 
 This lib was created using `create-react-library`.
-Please check documentetion [here](https://github.com/transitive-bullshit/create-react-library).
+Please check documentation [here](https://github.com/transitive-bullshit/create-react-library).
